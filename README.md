@@ -2,3 +2,4 @@
 basic javascript projects
 - to do app
 - quiz game
+- music player
